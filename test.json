@@ -1,0 +1,6 @@
+{
+    "ANSIBLE_MODULE_ARGS": {
+        "path": "./new.txt",
+        "content": "say hello to my little friend"
+    }
+}
