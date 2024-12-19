@@ -1,0 +1,5 @@
+---
+- name: Make file
+  my_own_module:
+    path: "./test.txt"
+    content: "make test file in homedir"

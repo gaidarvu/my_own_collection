@@ -1,0 +1,96 @@
+{
+ "files": [
+  {
+   "name": ".",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "docs",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "inventory.yml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "10b93ee19c30e89f04e14aac8a2aed91a868f1a8bf58576df13479a8d7ad8ee0",
+   "format": 1
+  },
+  {
+   "name": "library",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "library/my_own_module.py",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "18b6a2fc8373969d9eaac88788e31c2bdd34b0f57148381943e00e163395174f",
+   "format": 1
+  },
+  {
+   "name": "meta",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "meta/runtime.yml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "7b1d88aa041500f5b4a36c20a58adf116fbb48af9b5aa3be93949bd12cdae9dd",
+   "format": 1
+  },
+  {
+   "name": "play.yml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "629ca3ccfbfaad945848da1147ebb62da14375fa2997bb72d0634062a41f524e",
+   "format": 1
+  },
+  {
+   "name": "README.md",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "97bd64701fe4b4ecaa35b011f5d67894ae45da55b4b41ee7160586395913bf41",
+   "format": 1
+  },
+  {
+   "name": "roles",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/mkfile",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/mkfile/tasks",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/mkfile/tasks/main.yml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "04801eea0a49dd4c382d771470e5612c82fc0b02d099cb3f6dd6b3d813edee79",
+   "format": 1
+  }
+ ],
+ "format": 1
+}

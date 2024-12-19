@@ -1,0 +1,30 @@
+{
+ "collection_info": {
+  "namespace": "my_own_namespace",
+  "name": "yandex_cloud_elk",
+  "version": "1.0.1",
+  "authors": [
+   "gaidar <gaidar.vu@google.com>"
+  ],
+  "readme": "README.md",
+  "tags": [],
+  "description": "role makes file with text",
+  "license": [
+   "MIT"
+  ],
+  "license_file": null,
+  "dependencies": {},
+  "repository": "http://example.com/repository",
+  "documentation": "http://docs.example.com",
+  "homepage": "http://example.com",
+  "issues": "http://example.com/issue/tracker"
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "0bc43cf9b9ce3c7d8f4dde0f58daf0f131fb7c6e64a4d39cab62c73ef8e792fc",
+  "format": 1
+ },
+ "format": 1
+}
